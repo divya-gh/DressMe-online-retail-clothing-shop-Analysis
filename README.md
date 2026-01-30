@@ -1,10 +1,10 @@
-# DressMe-online-clothing-shop Ad Campaign
+# FabMe-online-clothing-shop Ad Campaign
 ### Marketing Analysis to run a campaign to promote swimwear products by modeling highest scoring college basketball players from NCCA using BigQuery and Looker Studio
 
 
 
 <img src="./Images/NCCA_model.jpg" height="600" width="600">
-___DressMe Swimware Ad Campaign with NCCA top Football players___
+___FabMe Swimware Ad Campaign with NCCA top Football players___
 
 ## Table of contents
 * [Project Title](#project-title)
@@ -18,7 +18,7 @@ ___DressMe Swimware Ad Campaign with NCCA top Football players___
 * [Contact](#contact)
 
 
-## Project Title : DressMe - Online Clothing Shop Marketing Analysis to Run a Ad Campaign
+## Project Title : FabMe - Online Clothing Shop Marketing Analysis to Run a Ad Campaign
 
 ### Description 
 This project aims at analyzing top swimware sales in June 2023 and identifying top 10 football players from NCCA to model. 
