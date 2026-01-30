@@ -30,13 +30,17 @@
 This project aims at analyzing top swimware sales in June 2023 and identifying top 10 football players from NCCA to model. 
 
 ### Data WorkFlow 
-* Ask Business Questions
+* Clarify and Answer Business Questions
 * Create Objectives
 * Capture Data
 * Analyze Data
 * Vizualize and Report
 
-
+#### Business Questions1 : Promote swimwear products with highest sales in June 2023
+**1. What is data am I looking for?
+2. Where to find the data?
+3. How much data?
+4. 
 ### Data Set
 <a href= "https://www.kaggle.com/nasa/kepler-exoplanet-search-results" alt="dataset"><img src="./Images/nasa.jpg" alt="TP" align='left'  width="80" height="80"></a><br/>
 Over a period of nine years in deep space, the NASA Kepler space telescope has been out on a planet-hunting mission to discover hidden planets outside of our solar system.
