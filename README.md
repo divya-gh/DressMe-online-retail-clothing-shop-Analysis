@@ -18,7 +18,7 @@ ___DressMe Swimware Ad Campaign with NCCA top Football players___
 * [Contact](#contact)
 
 
-## Project Title : DressMe Online Clothing Shop Marketing Analysis to Run a Ad Campaign
+## Project Title : DressMe - Online Clothing Shop Marketing Analysis to Run a Ad Campaign
 
 ### Description 
 This project aims at analyzing top swimware sales in June 2023 and identifying top 10 football players from NCCA to model. 
