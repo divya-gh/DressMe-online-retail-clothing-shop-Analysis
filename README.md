@@ -36,7 +36,7 @@ This project aims at analyzing top swimware sales in June 2023 and identifying t
 * Analyze Data
 * Vizualize and Report
 
-#### Business Questions1 : Promote swimwear products with highest sales in June 2023
+### Business Questions1 : #### Promote swimwear products with highest sales in June 2023
 **1. What is data am I looking for?
 2. Where to find the data?
 3. How much data?
