@@ -95,7 +95,7 @@ Project Complete
 
 
 ## Contact
- [Divya Shetty](https://www.linkedin.com/in/divya-shetty-0515214/)
+ [Divya Shetty](www.linkedin.com/in/divya-shetty-k)
 
 
 
