@@ -37,10 +37,26 @@ This project aims at analyzing top swimware sales in June 2023 and identifying t
 * Vizualize and Report
 
 ### Business Question 1 : Promote swimwear products with highest sales in June 2023
-* 1. What is data am I looking for?
-* 2. Where to find the data?
-* 3. How much data?
-* 4. What tools are neded to analyze , Vizualize and Report
+1. What is data am I looking for?
+   - Sales and Products
+3. Where to find the data?
+   - BigQuery Database
+5. How much data?
+   - June 2023
+7. What tools are neded to analyze , Vizualize and Report?
+   - BigQuery , SQL & Looker
+  
+### Business Question 2 : Top 10 NCCA Football Players past 5 years
+1. What is data am I looking for?
+   - NCCA Player with points
+3. Where to find the data?
+   - Public data source -NCCA dataset
+5. How much data?
+   - past 5 years
+7. What tools are neded to analyze , Vizualize and Report?
+   - BigQuery , BigQuery Search, SQL & Looker
+  
+     
 ### Data Set
 <a href= "https://www.kaggle.com/nasa/kepler-exoplanet-search-results" alt="dataset"><img src="./Images/nasa.jpg" alt="TP" align='left'  width="80" height="80"></a><br/>
 Over a period of nine years in deep space, the NASA Kepler space telescope has been out on a planet-hunting mission to discover hidden planets outside of our solar system.
