@@ -33,7 +33,7 @@ This project aims at analyzing top swimware sales in June 2023 and identifying t
 * Clarify and Answer Business Questions
 * Create Objectives
 * Capture Data
-* Analyze Data
+* Analysis
 * Vizualize and Report
 
 ### Business Question 1 : Promote swimwear products with highest sales in June 2023
@@ -56,6 +56,12 @@ This project aims at analyzing top swimware sales in June 2023 and identifying t
 7. What tools are neded to analyze , Vizualize and Report?
    - BigQuery , BigQuery Search, SQL & Looker
   
+##Create Objectives
+1. Identify the Product and sales data set on Bigquery for june 2023
+2. Identify highest selling swimware product with status (complete, processing, ordered)
+3. Identify NCCA player public dataset with players and their highest scoring points in last 5 years
+4. Visualize and Report to the manager
+		
 ## Capture Data   
 ### Data Sets
 1. <img src="./Images/nasa.jpg" alt="TP" align='left'  width="80" height="80"></a><br/>
@@ -63,16 +69,10 @@ Order_items data and products data from BigQuery
 1. <a href= "https://www.kaggle.com/nasa/kepler-exoplanet-search-results" alt="dataset"><img src="./Images/nasa.jpg" alt="TP" align='left'  width="80" height="80"></a><br/>
 NCCA Football players scoring data.
 
-##Create Objectives
-1. Identify the Product and sales data set on Bigquery for june 2023
-2. Identify highest selling swimware product with status (complete, processing, ordered)
-3. Identify NCCA player public dataset with players and their highest scoring points in last 5 years
-4. Visualize and Report to the manager
-		
 
-## Objective
+## Analysis
 
-### Step 1 - Preprocess the Data
+### Step 1 - Join order_item and Products table
 1. Preprocess the dataset prior to fitting the model.
 2. Perform feature selection and remove unnecessary features.
 3. Use MinMaxScaler to scale the numerical data.
