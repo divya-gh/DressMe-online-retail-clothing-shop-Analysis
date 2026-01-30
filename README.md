@@ -4,7 +4,9 @@
 
 
 <img src="./Images/NCCA_model.jpg" height="600" width="600">
-___FabMe Swimware Ad Campaign with NCCA top Football players___
+__FabMe Swimware Ad Campaign with NCCA top Football players__
+
+FabMe - a global company that sells clothing products through physical stores and through digital channels including their own website, their own mobile app, and various third-party social media apps. TheLook eCommerce has been growing quickly thanks to the company’s wide variety of clothing styles, focus on innovation, and commitment to ethical and sustainable sourcing.
 
 ## Table of contents
 * [Project Title](#project-title)
