@@ -3,7 +3,7 @@
 
 
 
-<img src="./Images/NCCA_model.jpg" width="300">
+<img src="./Images/NCCA_model.jpg" height="300" width="600">
 ___DressMe Swimware Ad Campaign with NCCA top Football players___
 
 ## Table of contents
