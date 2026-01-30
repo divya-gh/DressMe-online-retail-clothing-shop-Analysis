@@ -3,7 +3,7 @@
 
 
 
-![Exo Planets Image](./Images/NCCA_model.jpg)
+<img src="./Images/NCCA_model.jpg" width="300">
 ___DressMe Swimware Ad Campaign with NCCA top Football players___
 
 ## Table of contents
