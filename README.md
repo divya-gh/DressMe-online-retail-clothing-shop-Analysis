@@ -13,9 +13,9 @@
 
 
 ## Table of contents
-* [Project Title](#Project-title)
+* [Project Title](#project-title)
 * [Description](#description)
-* [Data WorkFlow](Data-WorkFlow)
+* [Data WorkFlow](data-workFlow)
 * [Objective](#objective)
 * [Analysis 2020](#analysis-2020)
 * [Technologies and Tools](#technologies-and-tools)
