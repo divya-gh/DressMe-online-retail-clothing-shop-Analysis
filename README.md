@@ -1,4 +1,4 @@
-# DressMe-online-retail-clothing-shop Ad Campaign
+# DressMe-online-clothing-shop Ad Campaign
 ### Marketing Analysis to run a campaign to promote swimwear products by modeling highest scoring college basketball players from NCCA using BigQuery and Looker Studio
 
 
