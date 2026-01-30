@@ -1,10 +1,10 @@
-# DressMe-online-clothing-shop Ad Campaign
+# FabMe-online-clothing-shop Ad Campaign
 ### Marketing Analysis to run a campaign to promote swimwear products by modeling highest scoring college basketball players from NCCA using BigQuery and Looker Studio
 
 
 
-![Exo Planets Image](./Images/exoplanets.jpg)
-___DressMe Swimware Ad Campaign with NCCA top Football players___
+<img src="./Images/NCCA_model.jpg" height="600" width="600">
+___FabMe Swimware Ad Campaign with NCCA top Football players___
 
 ## Table of contents
 * [Project Title](#project-title)
@@ -18,7 +18,7 @@ ___DressMe Swimware Ad Campaign with NCCA top Football players___
 * [Contact](#contact)
 
 
-## Project Title : DressMe - Online Clothing Shop Marketing Analysis to Run a Ad Campaign
+## Project Title : FabMe - Online Clothing Shop Marketing Analysis to Run a Ad Campaign
 
 ### Description 
 This project aims at analyzing top swimware sales in June 2023 and identifying top 10 football players from NCCA to model. 
@@ -57,11 +57,9 @@ This project aims at analyzing top swimware sales in June 2023 and identifying t
 4. Visualize and Report to the manager
 		
 ### Capture Data   
-### Data Sets
-1. <img src="./Images/nasa.jpg" alt="TP" align='left'  width="80" height="80"></a><br/>
-Order_items data and products data from BigQuery
-1. <a href= "https://www.kaggle.com/nasa/kepler-exoplanet-search-results" alt="dataset"><img src="./Images/nasa.jpg" alt="TP" align='left'  width="80" height="80"></a><br/>
-NCCA Football players scoring data.
+### Data Sets:
+1. Order_items data and products data from BigQuery
+2. NCCA Football players scoring data.
 
 
 ### Analysis
