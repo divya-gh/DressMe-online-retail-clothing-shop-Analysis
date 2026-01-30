@@ -56,12 +56,18 @@ This project aims at analyzing top swimware sales in June 2023 and identifying t
 7. What tools are neded to analyze , Vizualize and Report?
    - BigQuery , BigQuery Search, SQL & Looker
   
-     
-### Data Set
-<a href= "https://www.kaggle.com/nasa/kepler-exoplanet-search-results" alt="dataset"><img src="./Images/nasa.jpg" alt="TP" align='left'  width="80" height="80"></a><br/>
-Over a period of nine years in deep space, the NASA Kepler space telescope has been out on a planet-hunting mission to discover hidden planets outside of our solar system.
+## Capture Data   
+### Data Sets
+1. <img src="./Images/nasa.jpg" alt="TP" align='left'  width="80" height="80"></a><br/>
+Order_items data and products data from BigQuery
+1. <a href= "https://www.kaggle.com/nasa/kepler-exoplanet-search-results" alt="dataset"><img src="./Images/nasa.jpg" alt="TP" align='left'  width="80" height="80"></a><br/>
+NCCA Football players scoring data.
 
-
+##Create Objectives
+1. Identify the Product and sales data set on Bigquery for june 2023
+2. Identify highest selling swimware product with status (complete, processing, ordered)
+3. Identify NCCA player public dataset with players and their highest scoring points in last 5 years
+4. Visualize and Report to the manager
 		
 
 ## Objective
