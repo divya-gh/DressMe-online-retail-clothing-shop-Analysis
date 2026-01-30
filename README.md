@@ -68,17 +68,20 @@ This project aims at analyzing top swimware sales in June 2023 and identifying t
 1. Join order_item and Products table using SQL query
 2. Filter Swim items
 3. Identify swim items that are sold, processing, ordered status in june
-   <img src="./BigQuery_SQL/Highest_Swimware_Sales_June.png" height="600" width="600">
+<img src="./BigQuery_SQL/Highest_Swimware_Sales_June.png" height="600" width="600">
 5. Vizualize to see the highest sold product in June
    
-   <img src="./Visualization/Looker1.png" height="600" width="600"> 
+<img src="./Visualization/Looker1.png" height="600" width="600"> 
 7. Report	
     
 ### Step 2 
 1. Gather public data form NCCA 
-2. Identify highest scoring players 
+2. Identify highest scoring players
+ <img src="./BigQuery_SQL/Top_NCCA_group.png" height="600" width="600">
 3. Rank thm from one to ten.
+<img src="./BigQuery_SQL/Top_10_rated_NCCA_Players.png" height="600" width="600">
 4. Vizualize and Report
+<img src="./Visualization/Looker2.png" height="600" width="600"> 
 
 ### Step 3 - 
 - Reporting
