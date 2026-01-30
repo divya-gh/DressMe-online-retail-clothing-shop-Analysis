@@ -70,7 +70,7 @@ This project aims at analyzing top swimware sales in June 2023 and identifying t
 3. Identify swim items that are sold, processing, ordered status in june
    <img src="./BigQuery_SQL/Highest_Swimware_Sales_June.jpg" height="600" width="600">
 5. Vizualize to see the highest sold
-   <img src="./Visualization/Looker1.jpg" height="600" width="600">
+   <img src="./Visualization/Looker1.jpg" height="600" width="600"> 
 7. Report	
     
 ### Step 2 
