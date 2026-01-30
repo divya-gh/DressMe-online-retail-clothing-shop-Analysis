@@ -3,7 +3,7 @@
 
 
 
-![Exo Planets Image](./Images/exoplanets.jpg)
+![Exo Planets Image](./Images/NCCA_model.jpg)
 ___DressMe Swimware Ad Campaign with NCCA top Football players___
 
 ## Table of contents
@@ -57,11 +57,9 @@ This project aims at analyzing top swimware sales in June 2023 and identifying t
 4. Visualize and Report to the manager
 		
 ### Capture Data   
-### Data Sets
-1. <img src="./Images/nasa.jpg" alt="TP" align='left'  width="80" height="80"></a><br/>
-Order_items data and products data from BigQuery
-1. <a href= "https://www.kaggle.com/nasa/kepler-exoplanet-search-results" alt="dataset"><img src="./Images/nasa.jpg" alt="TP" align='left'  width="80" height="80"></a><br/>
-NCCA Football players scoring data.
+### Data Sets:
+1. Order_items data and products data from BigQuery
+2. NCCA Football players scoring data.
 
 
 ### Analysis
